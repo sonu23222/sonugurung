@@ -1,3 +1,8 @@
 SONU GURUNG
 
 To learn and explore more about the web development.
+
+
+I learned about basic Git commands.
+I learned how to create repository and add local files into that repository.
+I learned how to add specific files and write a commit message.
